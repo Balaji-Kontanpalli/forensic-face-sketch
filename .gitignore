@@ -1,0 +1,19 @@
+# Maven
+target/
+
+# Eclipse / NetBeans / IntelliJ
+.project
+.classpath
+.settings/
+nbproject/
+nbactions.xml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.class
